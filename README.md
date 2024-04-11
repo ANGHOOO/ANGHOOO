@@ -6,6 +6,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [leenaghoo2@gmail.com](mailto:leenaghoo2@gmail.com)
 * 🧠  I'm learning Machine Learning and Deep Learning
 
+### 🏆 Kaggle competitions
+Check out [my profile](https://www.kaggle.com/leeanghoo) for more details.
+- 🥉 *HMS - Harmful Brain Activity Classification* - top 8% (220/2767) [[overview](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)]
+  
 ### Skills
 
 
@@ -23,4 +27,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <b>My GitHub Stats</b>
 
 ![Younghoon's github stats](https://github-readme-stats.vercel.app/api?username=ANGHOOO&show_icons=true&hide_border=true)
-<iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?anghoo" width="100%" height="300" style="border:none; min-width: 800px;"></iframe>
