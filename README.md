@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in South Korea
 * 🖥️  See my portfolio at [My PORTFOLIO](http://putportfolio.here)
-* ✉️  You can contact me at [leenaghoo2@gmail.com](mailto:leenaghoo2@gmail.com)
+* ✉️  You can contact me at [leeanghoo2@gmail.com](mailto:leenaghoo2@gmail.com)
 * 🧠  I'm learning Machine Learning and Deep Learning
 
 ### 🏆 Kaggle competitions
