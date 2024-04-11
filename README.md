@@ -23,3 +23,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <b>My GitHub Stats</b>
 
 ![Younghoon's github stats](https://github-readme-stats.vercel.app/api?username=ANGHOOO&show_icons=true&hide_border=true)
+<iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?anghoo" width="100%" height="300" style="border:none; min-width: 800px;"></iframe>
