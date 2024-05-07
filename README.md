@@ -7,10 +7,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning Machine Learning and Deep Learning
 
 ### ⚒️ Projects
-- **`House Price Prediction`** - A team project to develop an accurate and generalized model using Seoul apartment transaction data to predict market trends. [[github]([https://github.com/affjljoo3581/GPT2](https://github.com/ANGHOOO/Upstage-AI-Stages/tree/main/House%20Price%20Prediction))]
-- **`Document Classification`** - A team project to develop a model for classifying document images into 17 types of documents. [[github]([https://github.com/affjljoo3581/canrevan](https://github.com/ANGHOOO/Upstage-AI-Stages/tree/main/Document%20Classification))] 
-- **`Dialogue Summarization`** - A team project to develop a model that summarizes everyday conversations involving 2 to 7 people into 3 similar summaries. [[github]([https://github.com/affjljoo3581/Inverse-DALL-E-for-Optical-Character-Recognition](https://github.com/ANGHOOO/Upstage-AI-Stages/tree/main/Dialogue%20Summarization))]
-- **`Gumi Symbolic Artifact`** - A project to collect and analyze 19,324 internet news articles related to Gumi city to indirectly gauge public perception of the city for constructing a symbolic sculpture. [[github]([https://github.com/coverist/coverist-ai-research](https://github.com/ANGHOOO/Gumi-Symbolic-Artifact))]
+- **`House Price Prediction`** - A team project to develop an accurate and generalized model using Seoul apartment transaction data to predict market trends. [[github](https://github.com/ANGHOOO/Upstage-AI-Stages/tree/main/House%20Price%20Prediction)]
+- **`Document Classification`** - A team project to develop a model for classifying document images into 17 types of documents. [[github](https://github.com/ANGHOOO/Upstage-AI-Stages/tree/main/Document%20Classification)] 
+- **`Dialogue Summarization`** - A team project to develop a model that summarizes everyday conversations involving 2 to 7 people into 3 similar summaries. [[github](https://github.com/ANGHOOO/Upstage-AI-Stages/tree/main/Dialogue%20Summarization)]
+- **`Gumi Symbolic Artifact`** - A project to collect and analyze 19,324 internet news articles related to Gumi city to indirectly gauge public perception of the city for constructing a symbolic sculpture. [[github](https://github.com/ANGHOOO/Gumi-Symbolic-Artifact)]
 
 
 ### 🏆 Kaggle competitions
