@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **`Document Classification`** - A team project to develop a model for classifying document images into 17 types of documents. [[github](https://github.com/ANGHOOO/Upstage-AI-Stages/tree/main/Document%20Classification)]
 - **`Dialogue Summarization`** - A team project to develop a model that summarizes everyday conversations involving 2 to 7 people into 3 similar summaries. [[github](https://github.com/ANGHOOO/Upstage-AI-Stages/tree/main/Dialogue%20Summarization)]
 - **`House Price Prediction`** - A team project to develop an accurate and generalized model using Seoul apartment transaction data to predict market trends. [[github](https://github.com/ANGHOOO/Upstage-AI-Stages/tree/main/House%20Price%20Prediction)]
-- **`Gumi Symbolic Artifact`** - A project to collect and analyze 19,324 internet news articles related to Gumi city to indirectly gauge public perception of the city for constructing a symbolic sculpture. [[github](https://github.com/ANGHOOO/Gumi-Symbolic-Artifact)]
+- **`Gumi IC Symbolic Artifact`** - A project to collect and analyze 19,324 internet news articles related to Gumi city to indirectly gauge public perception of the city for constructing a symbolic artifact. [[github](https://github.com/ANGHOOO/Gumi-Symbolic-Artifact)]
 
 
 ### 🏆 Kaggle competitions
