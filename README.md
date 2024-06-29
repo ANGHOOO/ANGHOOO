@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 * 🌍  I'm based in South Korea
-* 🖥️  See my CV at [Here](https://github.com/ANGHOOO/ANGHOOO/blob/main/Younghoon%20Lee%20CV.pdf)
+* 🖥️  See my CV at [Here](https://github.com/ANGHOOO/ANGHOOO/blob/main/YoungHoon%20Lee%20CV.pdf)
 * ✉️  You can contact me at [leeanghoo2@gmail.com](mailto:leenaghoo2@gmail.com)
 * 🧠  I'm learning Machine Learning and Deep Learning
 
