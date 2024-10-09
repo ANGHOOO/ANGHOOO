@@ -13,7 +13,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **`Gumi IC Symbolic Artifact`** - A project to collect and analyze 19,324 internet news articles related to Gumi city to indirectly gauge public perception of the city for constructing a symbolic artifact. [[github](https://github.com/ANGHOOO/Gumi-Symbolic-Artifact)]
 
 
-### 🏆 Kaggle competitions
+### 🏆 Kaggle competitions  
+[![Kaggle](https://img.shields.io/badge/kaggle-expert-8A2BE2?)](https://www.kaggle.com/leeanghoo)
+
 Check out [my profile](https://www.kaggle.com/leeanghoo) for more details.
 - 🥉 *RSNA 2024 Lumbar Spine Degenerative Classification* - top 7% (140/1915) [[overview](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification)]
 - 🥉 *HMS - Harmful Brain Activity Classification* - top 8% (220/2767) [[overview](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)]
