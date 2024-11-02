@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Kaggle](https://img.shields.io/badge/kaggle-expert-8A2BE2?)](https://www.kaggle.com/leeanghoo)
 
 Check out [my profile](https://www.kaggle.com/leeanghoo) for more details.
-- 🥉 *RSNA 2024 Lumbar Spine Degenerative Classification* - top 7% (133/1874) [[overview](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification)]
+- 🥉 *RSNA 2024 Lumbar Spine Degenerative Classification* - top 7% (133/1874) [[overview](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification)] [[github](https://github.com/ANGHOOO/RSNA-2024-Lumbar-Spine-Degenerative-Classification)]
 - 🥉 *HMS - Harmful Brain Activity Classification* - top 8% (220/2767) [[overview](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)]
   
 ### Skills
