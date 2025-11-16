@@ -5,13 +5,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my CV at [Here](https://drive.google.com/file/d/1-QUGYUM-ysoXCaJEEUHVP4mPJz-_mtn9/view?usp=sharing)
 * ✉️  You can contact me at [leeanghoo2@gmail.com](mailto:leenaghoo2@gmail.com)
 * 🧠  I'm learning Machine Learning and Deep Learning
+<br>
 
 ### ⚒️ Projects
-- **`Document Classification`** - A team project to develop a model for classifying document images into 17 types of documents. [[github](https://github.com/ANGHOOO/Upstage-AI-Stages/tree/main/Document%20Classification)]
-- **`Dialogue Summarization`** - A team project to develop a model that summarizes everyday conversations involving 2 to 7 people into 3 similar summaries. [[github](https://github.com/ANGHOOO/Upstage-AI-Stages/tree/main/Dialogue%20Summarization)]
-- **`House Price Prediction`** - A team project to develop an accurate and generalized model using Seoul apartment transaction data to predict market trends. [[github](https://github.com/ANGHOOO/Upstage-AI-Stages/tree/main/House%20Price%20Prediction)]
-- **`Gumi IC Symbolic Artifact`** - A project to collect and analyze 19,324 internet news articles related to Gumi city to indirectly gauge public perception of the city for constructing a symbolic artifact. [[github](https://github.com/ANGHOOO/Gumi-Symbolic-Artifact)]
+- **`강원 송이 총판`** - Development of an API server to improve and add new features to an online shopping mall operated by my friend [[github](https://github.com/f-lab-edu/pine-mushroom-shop)]
 
+<br>
 
 ### 🏆 Kaggle competitions  
 [![Kaggle](https://img.shields.io/badge/kaggle-expert-8A2BE2?)](https://www.kaggle.com/leeanghoo)
@@ -19,7 +18,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Check out [my profile](https://www.kaggle.com/leeanghoo) for more details.
 - 🥉 *RSNA 2024 Lumbar Spine Degenerative Classification* - top 7% (133/1874) [[overview](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification)] [[github](https://github.com/ANGHOOO/RSNA-2024-Lumbar-Spine-Degenerative-Classification)]
 - 🥉 *HMS - Harmful Brain Activity Classification* - top 8% (220/2767) [[overview](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)]
-  
+<br>
+
 ### Skills
 
 
