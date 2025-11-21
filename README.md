@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 
 ### ⚒️ Projects
-- **`강원 송이 총판`** - Development of an API server to improve and add new features to an online shopping mall operated by my friend [[github]([https://github.com/f-lab-edu/pine-mushroom-shop](https://github.com/ANGHOOO/pine-mushroom-shop))]
+- **`강원 송이 총판`** - Development of an API server to improve and add new features to an online shopping mall operated by my friend [[github](https://github.com/f-lab-edu/pine-mushroom-shop](https://github.com/ANGHOOO/pine-mushroom-shop))]
 
 <br>
 
