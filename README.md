@@ -56,4 +56,4 @@ Check out [my profile](https://www.kaggle.com/leeanghoo) for more details.
 
 <b>My GitHub Stats</b>
 
-![Younghoon's github stats](https://github-readme-stats.vercel.app/api?username=ANGHOOO&show_icons=true&hide_border=true)
+![Younghoon's github stats](https://github-readme-stats-nu-lovat-34.vercel.app/api?username=ANGHOOO&show_icons=true&hide_border=true)
