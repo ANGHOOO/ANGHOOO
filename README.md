@@ -24,7 +24,7 @@
     <a href="mailto:leeanghoo2@gmail.com" target="_blank"><img height="28" src="./assets/Email.svg" alt="Email"></a>
 </p>
 
-## Lovely things
+## Tech Stacks
 
 <p align="center">
     <img height="28" src="./assets/Python.svg" alt="Python">
