@@ -1,0 +1,17 @@
+<svg width="85" height="36" viewBox="0 0 85 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="83" height="34" fill="#F05032" rx="6" ry="6" x="1" y="1" stroke-width="2" stroke="black" />
+<rect width="34" height="36" fill="black"/>
+<circle cx="14" cy="14" r="2" fill="white"/>
+<circle cx="22" cy="14" r="2" fill="white"/>
+<circle cx="18" cy="22" r="2" fill="white"/>
+<line x1="14" y1="16" x2="18" y2="20" stroke="white" stroke-width="1.5"/>
+<line x1="22" y1="16" x2="18" y2="20" stroke="white" stroke-width="1.5"/>
+<text x="60.5" y="22" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="white" text-anchor="middle">Git</text>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="85" height="36" rx="6"/>
+</clipPath>
+</defs>
+</svg>

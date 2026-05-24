@@ -1,0 +1,6 @@
+<svg width="180" height="36" viewBox="0 0 180 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="178" height="34" fill="white" rx="6" ry="6" x="1" y="1" stroke-width="2" stroke="black" />
+<path d="M6 0H36V36H6C2.68629 36 0 33.3137 0 30V6C0 2.68629 2.68629 0 6 0Z" fill="black"/>
+<path d="M20 8 L14 19 L18 19 L16 28 L24 16 L19 16 L22 8 Z" fill="#009688"/>
+<text x="108.0" y="22" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="black" text-anchor="middle">Backend Developer</text>
+</svg>

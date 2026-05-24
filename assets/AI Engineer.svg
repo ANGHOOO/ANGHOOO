@@ -1,0 +1,7 @@
+<svg width="145" height="36" viewBox="0 0 145 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="143" height="34" fill="white" rx="6" ry="6" x="1" y="1" stroke-width="2" stroke="black" />
+<path d="M6 0H36V36H6C2.68629 36 0 33.3137 0 30V6C0 2.68629 2.68629 0 6 0Z" fill="black"/>
+<path d="M18 8 L22 14 Q24 18 20 22 Q18 24 16 22 Q12 18 14 14 Z" fill="#EE4C2C"/>
+<circle cx="19" cy="19" r="2" fill="white"/>
+<text x="90.5" y="22" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="black" text-anchor="middle">AI Engineer</text>
+</svg>

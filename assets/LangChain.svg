@@ -1,0 +1,15 @@
+<svg width="130" height="36" viewBox="0 0 130 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="128" height="34" fill="#1c3c3c" rx="6" ry="6" x="1" y="1" stroke-width="2" stroke="black" />
+<rect width="34" height="36" fill="black"/>
+<path d="M14 12 L22 12 L22 24 L14 24 Z" fill="none" stroke="white" stroke-width="1.5"/>
+<path d="M16 16 L20 16 M16 19 L20 19 M16 22 L18 22" stroke="white" stroke-width="1"/>
+<circle cx="18" cy="10" r="2" fill="white"/>
+<text x="83.0" y="22" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="white" text-anchor="middle">LangChain</text>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="130" height="36" rx="6"/>
+</clipPath>
+</defs>
+</svg>

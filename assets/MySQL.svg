@@ -1,0 +1,14 @@
+<svg width="105" height="36" viewBox="0 0 105 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="103" height="34" fill="#4479A1" rx="6" ry="6" x="1" y="1" stroke-width="2" stroke="black" />
+<rect width="34" height="36" fill="black"/>
+<text x="18" y="22" font-family="Arial" font-size="9" font-weight="bold" fill="white" text-anchor="middle">SQL</text>
+<path d="M10 14 Q18 8 26 14" fill="none" stroke="white" stroke-width="1.5"/>
+<text x="70.5" y="22" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="white" text-anchor="middle">MySQL</text>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="105" height="36" rx="6"/>
+</clipPath>
+</defs>
+</svg>

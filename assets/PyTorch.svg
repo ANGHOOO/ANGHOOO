@@ -1,0 +1,14 @@
+<svg width="115" height="36" viewBox="0 0 115 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="113" height="34" fill="#EE4C2C" rx="6" ry="6" x="1" y="1" stroke-width="2" stroke="black" />
+<rect width="34" height="36" fill="black"/>
+<path d="M18 8 L22 14 Q24 18 20 22 Q18 24 16 22 Q12 18 14 14 Z" fill="#EE4C2C"/>
+<circle cx="19" cy="19" r="2" fill="white"/>
+<text x="75.5" y="22" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="white" text-anchor="middle">PyTorch</text>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="115" height="36" rx="6"/>
+</clipPath>
+</defs>
+</svg>
