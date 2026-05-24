@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" alt="Hello, I'm Younghoon Lee. An AI Engineer and Backend Developer based in South Korea. Passionate about Machine Learning, Deep Learning, and building scalable backend systems." />
+<img src="./assets/header.svg" alt="Hello, I'm Younghoon Lee. An AI Engineer building LLM Agents, as well as RAG, MLOps, evals, and AI ops. A Kaggle Expert passionate about shipping real-world AI engineering work. Always exploring AI systems, evaluation, and bold engineering challenges." />
 
 ## I am
 
@@ -6,7 +6,7 @@
     <a href="https://www.kaggle.com/leeanghoo" target="_blank"><img height="28" src="./assets/AI Engineer.svg" alt="AI Engineer"></a>
     &nbsp;
     &nbsp;
-    <a href="https://github.com/ANGHOOO" target="_blank"><img height="28" src="./assets/Backend Developer.svg" alt="Backend Developer"></a>
+    <a href="https://github.com/ANGHOOO" target="_blank"><img height="28" src="./assets/LLMOps.svg" alt="LLMOps"></a>
     &nbsp;
     &nbsp;
     <a href="https://www.kaggle.com/leeanghoo" target="_blank"><img height="28" src="./assets/Kaggle Expert.svg" alt="Kaggle Expert"></a>
