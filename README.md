@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" alt="Hello, I'm Younghoon Lee. An AI Engineer building LLM Agents, as well as RAG, MLOps, evals, and AI ops. A Kaggle Expert passionate about shipping real-world AI engineering work. Always exploring AI systems, evaluation, and bold engineering challenges." />
+<img src="./assets/header.svg?v=2" alt="Hello, I'm Younghoon Lee. An AI Engineer building LLM Agents, as well as RAG, MLOps, evals, and AI ops. A Kaggle Expert passionate about shipping real-world AI engineering work. Always exploring AI systems, evaluation, and bold engineering challenges." />
 
 ## I am
 
