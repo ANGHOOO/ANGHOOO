@@ -1,59 +1,113 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Younghoon Lee
-=====================================================================================================================================
+<h1 align="center">
+  Hi there
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">
+  I'm Younghoon Lee
+</h1>
 
-* 🌍  I'm based in South Korea
-* 🖥️  See my CV at [Here](https://drive.google.com/file/d/1wVAFWFwRQPKDVCWtjgjjhK1faxBbvIOx/view?usp=drive_link)
-* ✉️  You can contact me at [leeanghoo2@gmail.com](mailto:leenaghoo2@gmail.com)
-* 🧠  I'm learning Machine Learning and Deep Learning
-<br>
+<p align="center">
+  <strong>AI Engineer & Backend Developer based in South Korea 🇰🇷</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:leeanghoo2@gmail.com"><img src="https://img.shields.io/badge/Email-leeanghoo2@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1wVAFWFwRQPKDVCWtjgjjhK1faxBbvIOx/view?usp=drive_link"><img src="https://img.shields.io/badge/CV-View%20Here-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="CV"></a>
+  &nbsp;
+  <a href="https://www.kaggle.com/leeanghoo"><img src="https://img.shields.io/badge/Kaggle-Expert-8A2BE2?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+<p align="center">Machine Learning · Deep Learning · MLOps</p>
+
+---
 
 ## Skills
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<p align="center"><strong>💻 Programming</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+</p>
 
-### 🧠 AI Engineering
-![PyTorch](https://img.shields.io/badge/PyTorch-DE4C36?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
+<p align="center"><strong>🧠 AI Engineering</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-DE4C36?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+</p>
 
+<p align="center"><strong>🛠 Backend Engineering</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
 
-### 🛠 Backend Engineering
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
+<p align="center"><strong>☁️ Infrastructure</strong></p>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=flat-square&logo=aws&logoColor=white" alt="AWS">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+</p>
 
-
-### ☁ Infrastructure
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-<br>
+---
 
 ## ⚒️ Projects
-- **`강원 송이 총판`** - Development of an API server to improve and add new features to an online shopping mall [[github](https://github.com/ANGHOOO/pine-mushroom-shop)]
 
-<br>
+<p align="center">
+  <strong>강원 송이 총판</strong><br>
+  온라인 쇼핑몰 기능 개선 및 신규 기능 추가를 위한 API 서버 개발<br>
+  <a href="https://github.com/ANGHOOO/pine-mushroom-shop">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-## 🏆 Kaggle competitions  
-[![Kaggle](https://img.shields.io/badge/kaggle-expert-8A2BE2?)](https://www.kaggle.com/leeanghoo)
+---
 
-Check out [my profile](https://www.kaggle.com/leeanghoo) for more details.
-- 🥉 *RSNA 2024 Lumbar Spine Degenerative Classification* - top 7% (133/1874) [[overview](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification)] [[github](https://github.com/ANGHOOO/RSNA-2024-Lumbar-Spine-Degenerative-Classification)]
-- 🥉 *HMS - Harmful Brain Activity Classification* - top 8% (220/2767) [[overview](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)]
-<br>
+## 🏆 Kaggle Competitions
 
+<p align="center">
+  <a href="https://www.kaggle.com/leeanghoo">
+    <img src="https://img.shields.io/badge/Kaggle-Expert-8A2BE2?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Expert">
+  </a>
+</p>
 
-## Socials
+<p align="center">
+  🥉 <strong>RSNA 2024 Lumbar Spine Degenerative Classification</strong> — top 7% (133/1874)<br>
+  <a href="https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification">overview</a> · <a href="https://github.com/ANGHOOO/RSNA-2024-Lumbar-Spine-Degenerative-Classification">github</a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/ANGHOOO" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/younghoon-lee-565a59236/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+  🥉 <strong>HMS - Harmful Brain Activity Classification</strong> — top 8% (220/2767)<br>
+  <a href="https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification">overview</a>
+</p>
 
-<br>
+---
 
-## Badges
+## Social
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <a href="https://www.github.com/ANGHOOO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/younghoon-lee-565a59236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-![Younghoon's github stats](https://github-readme-stats-nu-lovat-34.vercel.app/api?username=ANGHOOO&show_icons=true&hide_border=true)
+---
+
+<p align="center">
+  <img src="https://github-readme-stats-nu-lovat-34.vercel.app/api?username=ANGHOOO&show_icons=true&hide_border=true&theme=default" alt="Younghoon's GitHub Stats">
+</p>
